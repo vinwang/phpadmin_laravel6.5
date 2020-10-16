@@ -1,4 +1,4 @@
-#使用laravel 6.0LTS 版本进行开发
+#使用laravel 6.0LTS 版本进行开发的定制版CRM
 
 #安装方法
 
